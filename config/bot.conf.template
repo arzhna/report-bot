@@ -1,0 +1,12 @@
+[bot]
+name = WeeklyReport
+message = 주간보고 작성해주세요!
+
+[resource]
+store = {Object Store URL}
+container = {Container Name}
+face-object = {Face Object Name}
+pic-object = {Picture Object Name}
+
+[dooray]
+hook-url = {Your Dooray Hook URL}
